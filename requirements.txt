@@ -1,0 +1,3 @@
+pandas 
+numpy
+pytest # for the unit testing 
